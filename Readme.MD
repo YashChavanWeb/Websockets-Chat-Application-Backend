@@ -288,7 +288,7 @@ socket.current.on("getNotification", (res) => {
 
 **Fig8: Notifications**
 
-![alt text](9.png)
+![alt text](images/9.png)
 
 ---
 

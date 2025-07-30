@@ -18,7 +18,7 @@ A **full-stack realtime chat app** built with **React**, **Node.js**, **Express*
 
 ## 👜 Assets
 
-#### Demo Video: [Watch](https://drive.google.com/file/d/1HRoHMRKPqdstOEUoQ52BJZT3wwu8WMrV/view?usp=sharing)
+#### Demo Video: [Watch](https://drive.google.com/file/d/1R8eaWQidZPMYO3YAbnOxrRZOr6hmLQ-7/view?usp=sharing)
 
 #### Postman Collection: [Download here](https://github.com/YashChavanWeb/postman-collections/blob/main/chat-application/40041614-7220a1f3-06c3-47ae-83d2-0c66c4df589b.json)
 

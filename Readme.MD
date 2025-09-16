@@ -1,4 +1,4 @@
-# 💬 Realtime Chat Application
+# Realtime Chat Application
 
 A **full-stack realtime chat app** built with **React**, **Node.js**, **Express**, **MongoDB**, and **Socket.IO**. The app features **real-time private messaging**, **online user tracking**, **JWT authentication**, and **notifications**, using **custom APIs**, **context API**, and **custom hooks** for global state management.
 
